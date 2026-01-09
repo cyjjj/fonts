@@ -34,8 +34,13 @@
 │   │   ├── SourceHanSans-VF.ttf.ttc
 │   │   └── SourceHanSerif-VF.ttf.ttc
 │   └── 宋体
-│       ├── Nsimsun.ttf
-│       └── SimSun.ttf
+│   │   ├── Nsimsun.ttf
+│   │   ├── SimSun.ttf
+│   │   ├── 方正小标宋简.ttf
+│   │   └── 方正小标宋_GBK.ttf
+│   └── GB2312
+│       ├── 仿宋_GB2312.ttf
+│       └── 楷体_GB2312.ttf
 ├── English
 │   ├── Display
 │   │   ├── Comic Sans MS Bold.ttf
